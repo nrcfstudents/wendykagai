@@ -1,10 +1,20 @@
-.nav-bar p{
-	font-size: 30px
-	color:red;
+body{
+	color:black;
+	font-family: Arial;
+	background-color: skyblue;
 }
 
-	.nav-bar{
-		display: flex
-		justify-content: space-between;
-	}
-	
+p{
+	text-align: left;
+}
+
+h1{
+	color: black;
+	text align:center;
+}
+.first{
+	text-align:left;
+}
+h2{
+	color: black;
+}
