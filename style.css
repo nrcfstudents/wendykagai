@@ -18,3 +18,16 @@ h1{
 h2{
 	color: black;
 }
+table, th,td{
+	border:1px solid black;
+	width:100%;
+}
+
+nav{
+	text-align: center;
+	justify-content: center;
+	padding:0;
+	margin: 10;
+	font-weight: bold;
+	background-color: lightyellow;
+}
